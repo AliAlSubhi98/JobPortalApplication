@@ -1,8 +1,6 @@
 package com.alialsubhi.demoProject1.Services;
 
-import com.alialsubhi.demoProject1.Models.Feedback;
 import com.alialsubhi.demoProject1.Models.Interview;
-import com.alialsubhi.demoProject1.Repositories.FeedbackRepository;
 import com.alialsubhi.demoProject1.Repositories.InterviewRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
